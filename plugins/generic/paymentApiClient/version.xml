@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<version>
+    <application>paymentApiClient</application>
+    <type>plugins.generic</type>
+    <release>1.0.0</release>
+    <date>2023-01-01</date>
+    <lazy-load>1</lazy-load>
+
+    <dependencies>
+        <dependency>lib/pkp</dependency>
+        <min_version>3.3.0</min_version>
+    </dependencies>
+
+    <description>This plugin integrates with a payment API to handle payment settings and display payment status for authors.</description>
+    <author>
+        <name>John Doe</name>
+        <email>johndoe@example.com</email>
+        <institution>Example University</institution>
+    </author>
+</version>
