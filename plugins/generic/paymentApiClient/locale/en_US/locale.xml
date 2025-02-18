@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<locale name="en_US" full_name="English (United States)">
+
+    <!-- Payment API Client Plugin -->
+    <message key="plugins.generic.paymentApiClient.displayName">Payment API Client</message>
+    <message key="plugins.generic.paymentApiClient.description">This plugin integrates with a payment API to handle payment settings and display payment status for authors.</message>
+
+    <!-- Settings Form -->
+    <message key="plugins.generic.paymentApiClient.settings.apiUrl">API URL</message>
+    <message key="plugins.generic.paymentApiClient.settings.apiToken">API Token</message>
+    <message key="plugins.generic.paymentApiClient.settings.apiUrlRequired">API URL is required.</message>
+    <message key="plugins.generic.paymentApiClient.settings.apiTokenRequired">API Token is required.</message>
+
+    <!-- Status Page -->
+    <message key="plugins.generic.paymentApiClient.statusPage.title">Payment Status</message>
+    <message key="plugins.generic.paymentApiClient.statusPage.description">Below is the payment status for your submission.</message>
+    <message key="plugins.generic.paymentApiClient.statusPage.submissionId">Submission ID</message>
+    <message key="plugins.generic.paymentApiClient.statusPage.paymentStatus">Payment Status</message>
+    <message key="plugins.generic.paymentApiClient.statusPage.amount">Amount</message>
+    <message key="plugins.generic.paymentApiClient.statusPage.date">Date</message>
+
+</locale>

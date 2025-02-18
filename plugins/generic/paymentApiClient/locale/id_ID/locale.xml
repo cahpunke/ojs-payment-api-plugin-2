@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<locale name="id_ID" full_name="Indonesian" iso639-2b="ind" iso639-3="ind">
+    <message key="plugins.generic.paymentApiClient.displayName">Plugin Klien API Pembayaran</message>
+    <message key="plugins.generic.paymentApiClient.description">Plugin ini memungkinkan integrasi dengan API pembayaran untuk mengelola pembayaran dan status pembayaran.</message>
+    <message key="plugins.generic.paymentApiClient.settings.apiUrl">URL API</message>
+    <message key="plugins.generic.paymentApiClient.settings.apiUrlRequired">URL API diperlukan.</message>
+    <message key="plugins.generic.paymentApiClient.settings.apiToken">Token API</message>
+    <message key="plugins.generic.paymentApiClient.settings.apiTokenRequired">Token API diperlukan.</message>
+    <message key="plugins.generic.paymentApiClient.statusPage.title">Status Pembayaran</message>
+    <message key="plugins.generic.paymentApiClient.statusPage.description">Berikut adalah status pembayaran untuk pengajuan Anda.</message>
+    <message key="plugins.generic.paymentApiClient.statusPage.submissionId">ID Pengajuan</message>
+    <message key="plugins.generic.paymentApiClient.statusPage.paymentStatus">Status Pembayaran</message>
+    <message key="plugins.generic.paymentApiClient.statusPage.amount">Jumlah</message>
+    <message key="plugins.generic.paymentApiClient.statusPage.date">Tanggal</message>
+</locale>
