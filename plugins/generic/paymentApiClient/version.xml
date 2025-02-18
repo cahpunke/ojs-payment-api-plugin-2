@@ -17,4 +17,16 @@
         <email>johndoe@example.com</email>
         <institution>Example University</institution>
     </author>
+
+    <install>
+        <sql>
+            <file>sql/install.sql</file>
+        </sql>
+    </install>
+
+    <upgrade>
+        <sql>
+            <file>sql/upgrade.sql</file>
+        </sql>
+    </upgrade>
 </version>
